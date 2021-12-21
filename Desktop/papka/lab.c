@@ -4,6 +4,7 @@
 #include <limits.h>
 
 struct listek {
+	// COMMIT PAOOAOAOOAOOAOAOAOAO
     int znach;
     struct listek* next;
 };
